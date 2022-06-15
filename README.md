@@ -22,10 +22,10 @@ Backend/Frontend Developer | Licence student
 
 
 
-[youtube]:https://www.youtube.com/channel/UCqgwnhEQFUSjCvJOaN-L6Kg
-[twitter]:https://twitter.com/darm4duman
-[linkedin]:https://www.linkedin.com/in/yekaranfil/
-[instagram]:https://www.instagram.com/emreekrnfl/
+[youtube]:https://www.youtube.com/channel/UCL1zbUNW_z8f_qKCxrz4KYg
+[twitter]:https://twitter.com/yaafatii
+[linkedin]:www.linkedin.com/in/fatihtun
+[instagram]:https://github.com/Lamartune
 
 <br/>
 <br/>
