@@ -74,5 +74,5 @@ Backend/Frontend Developer | Licence student
 
 <summary> :bulb: Most Used Languages(En çok kullandığım diller) </summary>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yekaranfil&layout=compact" >
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lamartune&layout=compact" >
 
