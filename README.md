@@ -52,9 +52,7 @@ Backend/Frontend Developer | Licence student
 
 ### Coming soon (Çok yakında)
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="35" height="25">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="35" height="25">
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="35" height="25">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="35" height="25">
 <img align="left" src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" width="35" height="25">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="35" height="25">
 <br/>
@@ -68,7 +66,7 @@ Backend/Frontend Developer | Licence student
 
 <summary> :bulb: My Github Stats(Github İstatistiklerim) </summary>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=yekaranfil&theme=radical&show_icons=true" >
+<img src = "https://github-readme-stats.vercel.app/api?username=Lamartune&theme=radical&show_icons=true" >
 
 
 
