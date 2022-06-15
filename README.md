@@ -6,18 +6,18 @@ Backend/Frontend Developer | Licence student
 
  Hi, I'm Fatih, a 2nd year student at the Department of Management Information Systems. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as C#, Java, Python, SQl, and I'm improving myself in mobile programming. I'm learning Flutter and Kotlin. In the TUNEX team, which we established with 4 friends, we develop applications by helping and teamwork, and we do things that will improve ourselves.
 
-<font color="red">Asla yanlış yapmamış insan, yeni hiç birşey denememiştir. `Albert Einstein
+<font color="red">Jack of all trades, master of none... `Robert Greene
 `  </font>
 ### Reach out to me(Sosyal Medya Hesaplarım)
 
-[<img height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" align=left />][youtube]
+[<img height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" align=left />][Youtube]
 
-[<img height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" align=left />][twitter]
+[<img height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" align=left />][Twitter]
 
-[<img height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" align=left />][linkedin]
+[<img height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" align=left />][LinkedIn]
 
 
-[<img height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" align=left />][linkedin]
+[<img height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" align=left />][Instagram]
 
 
 
