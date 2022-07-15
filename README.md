@@ -1,4 +1,4 @@
-<img src="[https://c.tenor.com/OYdUJug-AkoAAAAC/trippy-tv-screen.gif](https://media.discordapp.net/attachments/699341228218646628/981891350616223814/Olivia_Black.gif)" width="1500" height="379">
+<img src="[[https://c.tenor.com/OYdUJug-AkoAAAAC/trippy-tv-screen.gif](https://media.discordapp.net/attachments/699341228218646628/981891350616223814/Olivia_Black.gif)](https://media.discordapp.net/attachments/699341228218646628/981891350616223814/Olivia_Black.gif)" width="1500" height="379">
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
