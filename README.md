@@ -24,8 +24,8 @@ Backend/Frontend Developer | Licence student
 
 [youtube]:https://www.youtube.com/channel/UCL1zbUNW_z8f_qKCxrz4KYg
 [twitter]:https://twitter.com/yaafatii
-[linkedin]:www.linkedin.com/in/fatihtun
-[instagram]:https://github.com/Lamartune
+[linkedin]:https://www.linkedin.com/in/fatih-t%C3%BCn-51b050228/
+[instagram]:https://www.instagram.com/tunfatih/?hl=tr
 
 <br/>
 <br/>
