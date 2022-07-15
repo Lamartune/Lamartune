@@ -1,4 +1,4 @@
-<img src="[[https://tenor.com/view/trippy-tv-screen-colors-gif-11633784](https://c.tenor.com/OYdUJug-AkoAAAAC/trippy-tv-screen.gif)](https://c.tenor.com/OYdUJug-AkoAAAAC/trippy-tv-screen.gif)" width="500" height="379">
+<img src="https://c.tenor.com/OYdUJug-AkoAAAAC/trippy-tv-screen.gif" width="500" height="379">
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
