@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/OYdUJug-AkoAAAAC/trippy-tv-screen.gif" width="500" height="379">
+<img src="https://c.tenor.com/OYdUJug-AkoAAAAC/trippy-tv-screen.gif" width="1500" height="379">
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
