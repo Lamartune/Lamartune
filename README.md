@@ -2,7 +2,7 @@
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-Backend/Frontend Developer | Licence student
+Frontend/Backend Developer | Licence student
 
  Hi, I'm Fatih, a 2nd year student at the Department of Management Information Systems. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as C#, Java, Python, SQl, and I'm improving myself in mobile programming. I'm learning Flutter and Kotlin. In the TUNEX team, which we established with 4 friends, we develop applications by helping and teamwork, and we do things that will improve ourselves.
 
