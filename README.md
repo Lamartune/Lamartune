@@ -32,10 +32,9 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="35" height="25">
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="25">
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="30" height="25">
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mssql-colored.svg" width="30" height="25">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" width="30" height="25">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30" height="25">
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="25">
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="30" height="25">
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="30" height="25">
@@ -55,7 +54,6 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 <h2><b> My Github Stats / Github İstatistiklerim: </b></h2>
 <img src = "https://github-readme-stats.vercel.app/api?username=Lamartune&theme=radical&show_icons=true" >
 
-<br></br>
 
 <h2><b> Most Used Languages / En çok kullandığım diller: </b></h2>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lamartune&layout=compact" >
