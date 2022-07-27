@@ -75,7 +75,7 @@ Frontend/Backend Developer | Licence student
 
 
 
-<summary><b> :bulb: Most Used Languages / En çok kullandığım diller: </b></summary>
+<h2><summary><b> :bulb: Most Used Languages / En çok kullandığım diller: </b></summary></h2>
 <br></br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lamartune&layout=compact" >
 
