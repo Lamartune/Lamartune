@@ -8,8 +8,7 @@
 Hi, I'm Fatih, a 2nd year student at the Department of Management Information Systems. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as C#, Java, Python, SQl, and I'm improving myself in mobile programming. I'm learning Flutter and Kotlin. In the TUNEX team, which we established with 4 friends, we develop applications by helping and teamwork, and we do things that will improve ourselves.
 </p>
 
-<p style="color: red;">Jack of all trades, master of none... `Robert Greene
-` </p>
+<p style="color: red;">Jack of all trades, master of none... <a href="tunexdigital.com"> `Robert Greene` </a></p>
 ### Reach out to me(Sosyal Medya Hesaplarım)
 
 [<img height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" align=left />][Youtube]
