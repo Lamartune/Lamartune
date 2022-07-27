@@ -66,6 +66,7 @@ Frontend/Backend Developer | Licence student
 
 
 <summary> :bulb: My Github Stats(Github İstatistiklerim) </summary>
+<br></br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Lamartune&theme=radical&show_icons=true" >
 
 
@@ -75,6 +76,6 @@ Frontend/Backend Developer | Licence student
 
 
 <summary> :bulb: Most Used Languages(En çok kullandığım diller) </summary>
-
+<br></br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lamartune&layout=compact" >
 
