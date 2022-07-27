@@ -31,7 +31,7 @@ Frontend/Backend Developer | Licence student
 <br/>
 
 
-### Tech I use (Kullandığım teknolojiler)
+### Tech I use / Kullandığım teknolojiler:
 
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="25">
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="30" height="25">
@@ -49,7 +49,7 @@ Frontend/Backend Developer | Licence student
 <br/>
 
 
-### Coming soon (Çok yakında)
+### Coming soon / Çok yakında
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="35" height="25">
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="35" height="25">
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" height="25">
@@ -65,7 +65,7 @@ Frontend/Backend Developer | Licence student
 
 
 
-<summary> :bulb: My Github Stats(Github İstatistiklerim) </summary>
+<summary> :bulb: <b> My Github Stats / Github İstatistiklerim: </b></summary>
 <br></br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Lamartune&theme=radical&show_icons=true" >
 
@@ -75,7 +75,7 @@ Frontend/Backend Developer | Licence student
 
 
 
-<summary> :bulb: Most Used Languages(En çok kullandığım diller) </summary>
+<summary> :bulb: Most Used Languages / En çok kullandığım diller: </summary>
 <br></br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lamartune&layout=compact" >
 
