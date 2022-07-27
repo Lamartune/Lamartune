@@ -10,8 +10,6 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 
 <p><em> Jack of all trades, master of none... </em>"<b><ins>Robert Greene</ins></b>"</p>
 
-<br></br>
-
 <h2><b>Reach out to me on my socials / Sosyal Medya Hesaplarımdan bana ulaşın:</b></h2>
 
 [<img height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" align=left />][Youtube]
