@@ -65,7 +65,7 @@ Frontend/Backend Developer | Licence student
 
 
 
-<summary><b> :bulb: My Github Stats / Github İstatistiklerim: </b></summary>
+<h2><summary><b> :bulb: My Github Stats / Github İstatistiklerim: </b></summary></h2>
 <br></br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Lamartune&theme=radical&show_icons=true" >
 
