@@ -12,13 +12,13 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 
 <h2><b>Reach out to me on my socials / Sosyal Medya Hesaplarımdan bana ulaşın:</b></h2>
 
-[<img height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" align=left />][Youtube]
+[<img height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" align=left />][Youtube]
 
-[<img height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" align=left />][Twitter]
+[<img height="35" width="45" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1658936288~hmac=93bf254d4bc15d042bcab04ddec9f2a5" align=left />][Twitter]
 
-[<img height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" align=left />][LinkedIn]
+[<img height="35" width="45" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1658936327~hmac=51d2530ad34d08a065b4d20ab362ddff" align=left />][LinkedIn]
 
-[<img height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" align=left />][Instagram]
+[<img height="35" width="45" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" align=left />][Instagram]
 
 [youtube]:https://www.youtube.com/channel/UCL1zbUNW_z8f_qKCxrz4KYg
 [twitter]:https://twitter.com/yaafatii
