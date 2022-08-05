@@ -12,7 +12,7 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 
 <h2><b>Reach out to me on my socials / Sosyal Medya Hesaplarımdan bana ulaşın:</b></h2>
 
-[<img width="50" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" align=left />][Youtube]
+[<img width="50" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938026.png?token=exp=1659680096~hmac=f336f56cb95fd7ad7541cb5a0916f0ac" align=left />][Youtube]
 
 [<img width="50" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1658936288~hmac=93bf254d4bc15d042bcab04ddec9f2a5" align=left />][Twitter]
 
