@@ -5,7 +5,7 @@
 <h2><i>Frontend/Backend Developer | Licence student</i></h2>
 
 <p>
-Hi, I'm Fatih, a 2nd year student at the Department of Management Information Systems. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as HTML5, CSS3, JS, C#, Java, Python, and I'm improving myself in mobile and web programming. In the <a href="https://www.tunexdigital.com">TUNEX team </a>, which we established with 4 friends, we develop applications by helping and teamwork, and we do things that will improve ourselves.
+Hi, I'm Fatih, a 2nd year student at the Department of Management Information Systems. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as HTML5, CSS3, JS, C#, Java, Python, and I'm improving myself in mobile and web programming. In the <a href="https://www.tunexdigital.com" target="_blank" style="color= red;">TUNEX team</a>, which we established with 4 friends, we develop applications by helping and teamwork, and we do things that will improve ourselves.
 </p>
 
 <p><em> Jack of all trades, master of none... </em>"<b><ins>Robert Greene</ins></b>"</p>
