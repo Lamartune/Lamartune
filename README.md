@@ -13,7 +13,7 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 <table>
   <tr>
     <td>
-      <label for="viewers">![](https://komarev.com/ghpvc/?username=lamartune&color=blueviolet&style=for-the-badge)</label>
+      <label for="viewers"><a href= "https://komarev.com/ghpvc/?username=lamartune&color=blueviolet&style=for-the-badge"></a></label>
     </td>
   </tr>
 </table>
