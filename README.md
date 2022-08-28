@@ -45,7 +45,7 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 
 <h2><b> Coming soon / Çok yakında </b></h2>
 
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="50">
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="50" title="Flutter">
 <img align="left" src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" width="50">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50">
 
@@ -56,4 +56,4 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 
 
 <h2><b> Most Used Languages / En çok kullandığım diller: </b></h2>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lamartune&layout=compact" >
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lamartune&layout=compact" width="850">
