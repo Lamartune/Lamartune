@@ -100,6 +100,6 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 
 
 <div align="center">
-    ![](https://komarev.com/ghpvc/?username=lamartune&color=blueviolet&style=for-the-badge&width=850)
+  ![](https://komarev.com/ghpvc/?username=lamartune&color=blueviolet&style=for-the-badge&width=850)
 </div>
                                                                                          
