@@ -10,9 +10,13 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 
 <p align="center" dir="auto"><em> Jack of all trades, master of none... </em>"<b><ins>Robert Greene</ins></b>"</p>
 
-<p align="center" dir="auto">
-  ![](https://komarev.com/ghpvc/?username=lamartune&color=blueviolet&style=for-the-badge)
-</p>
+<table>
+  <tr>
+    <td>
+      <label for="viewers">![](https://komarev.com/ghpvc/?username=lamartune&color=blueviolet&style=for-the-badge)</label>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center" dir="auto"><b>Reach out to me on my socials / Sosyal Medya Hesaplarımdan bana ulaşın:</b></h2>
 
