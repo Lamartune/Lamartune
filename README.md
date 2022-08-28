@@ -16,6 +16,23 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
   <tr>
     <td style="width: 120px;">
       <a
+      href="https://www.linkedin.com/in/fatih-t%C3%BCn-51b050228/"
+      title="Fatih Tün"
+      rel="noopener noreferrer"
+      >
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="50"
+      </a>
+    </td>
+    <td>
+      <h2><b><a href="https://www.linkedin.com/in/fatih-t%C3%BCn-51b050228/" rel="noopener noreferrer" title="Fatih Tün">
+          My LinkedIn Account/LinkedIn Hesabım
+        </a></b></h2>
+    </td>
+</table>
+<table align="center" dir="auto">
+  <tr>
+    <td style="width: 120px;">
+      <a
       href="https://www.youtube.com/channel/UCL1zbUNW_z8f_qKCxrz4KYg"
       title="Lamartune Edits"
       rel="noopener noreferrer"
@@ -47,15 +64,12 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
   </tr>
 </table>
 
-[<img width="50" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1659680157~hmac=fbb69bd1c98c0f259c29ae6982061faa" align="left" dir="auto" />][Twitter]
 
 [<img width="50" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1659680206~hmac=6e221e88e44521938c91711a79e572e7" align="left" dir="auto" />][LinkedIn]
 
-<!--[<img width="50" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" align="center" dir="auto" />][Instagram]-->
 
-[twitter]:https://twitter.com/yaafatii
 [linkedin]:https://www.linkedin.com/in/fatih-t%C3%BCn-51b050228/
-<!--[instagram]:https://www.instagram.com/tunfatih/?hl=tr-->
+
 
 <br></br>
 
