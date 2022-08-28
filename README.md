@@ -74,7 +74,7 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" title="JavaScript">
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="50" title="C#">
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" title="MySQL">
-<img align="left" dir="auto" src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png" width="75" title="MsSQL">
+<img align="left" dir="auto" src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png" width="50" title="MsSQL">
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="50" title="Java">
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" title="Python">
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="50" title="Adobe Photoshop">
