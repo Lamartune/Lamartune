@@ -12,7 +12,7 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 
 <h2 align="center" dir="auto"><b>Reach out to me on my socials / Sosyal Medya Hesaplarımdan bana ulaşın:</b></h2>
 
-<table>
+<table border="0" align="center">
   <tr>
     <td>
       <a
