@@ -23,6 +23,8 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" alt="Youtube" width="50"
       </a>
     </td>
+ </table>
+ <table align="center" dir="auto">
     <td>
       <h2><b><a href="https://www.youtube.com/channel/UCL1zbUNW_z8f_qKCxrz4KYg" rel="noopener noreferrer" title="Lamartune Edits">
           My Youtube Channel/Youtube Kanalım
