@@ -28,6 +28,20 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
           My Youtube Channel/Youtube Kanalım
         </a></b></h2>
     </td>
+    <td>
+      <a
+      href="https://twitter.com/yaafatii"
+      title="Fatii"
+      rel="noopener noreferrer"
+      >
+      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="Twitter" width="50"
+      </a>
+    </td>
+    <td>
+      <h2><b><a href="https://twitter.com/yaafatii" rel="noopener noreferrer" title="Fatii">
+          My Twitter Account/Twitter Hesabım
+        </a></b></h2>
+    </td>
   </tr>
 </table>
 
