@@ -52,7 +52,7 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 <br></br>
 
 <h2><b> My Github Stats / Github İstatistiklerim: </b></h2>
-<img src = "https://github-readme-stats.vercel.app/api?username=Lamartune&theme=radical&show_icons=true" >
+<img src = "https://github-readme-stats.vercel.app/api?username=Lamartune&theme=radical&show_icons=true" width="850" >
 
 
 <h2><b> Most Used Languages / En çok kullandığım diller: </b></h2>
