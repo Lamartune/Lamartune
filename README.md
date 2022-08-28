@@ -27,19 +27,19 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 
 <br></br>
 
-<h2><b>Tech I use / Kullandığım teknolojiler:</b></h2>
+<h2 align="center" dir="auto"><b>Tech I use / Kullandığım teknolojiler:</b></h2>
 
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="50">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50">
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="50">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="50">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="50">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="50">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="50">
+<img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50">
+<img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50">
+<img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50">
+<img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="50">
+<img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50">
+<img align="left" dir="auto" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="50">
+<img align="left" dir="auto" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="50">
+<img align="left" dir="auto" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50">
+<img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="50">
+<img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="50">
+<img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="50">
 
 <br></br>
 
