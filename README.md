@@ -1,6 +1,6 @@
 <img src="https://media3.giphy.com/media/3oEdvbRHem1psqd7a0/giphy.gif?cid=ecf05e47w4bf85frjbpszcxmwkqnoip0eaqwe11nxqsoldxx&rid=giphy.gif&ct=g" width="850" height="400" >
 
-<h1><b> Hi, Welcome To My Github Profile 👋 👋 👋</b></h1>
+<h1 align="center" dir="auto"><b> Hi, Welcome To My Github Profile 👋 👋 👋</b></h1>
 
 <h2><i>Frontend/Backend Developer | Licence student</i></h2>
 
@@ -12,11 +12,11 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 
 <h2><b>Reach out to me on my socials / Sosyal Medya Hesaplarımdan bana ulaşın:</b></h2>
 
-[<img width="50" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938026.png?token=exp=1659680096~hmac=f336f56cb95fd7ad7541cb5a0916f0ac" align=left />][Youtube]
+[<img width="50" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938026.png?token=exp=1659680096~hmac=f336f56cb95fd7ad7541cb5a0916f0ac" align=center />][Youtube]
 
-[<img width="50" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1659680157~hmac=fbb69bd1c98c0f259c29ae6982061faa" align=left />][Twitter]
+[<img width="50" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1659680157~hmac=fbb69bd1c98c0f259c29ae6982061faa" align=center />][Twitter]
 
-[<img width="50" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1659680206~hmac=6e221e88e44521938c91711a79e572e7" align=left />][LinkedIn]
+[<img width="50" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1659680206~hmac=6e221e88e44521938c91711a79e572e7" align=center />][LinkedIn]
 
 [<img width="50" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" align=left />][Instagram]
 
