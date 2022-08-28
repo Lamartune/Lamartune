@@ -12,18 +12,18 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 
 <h2 align="center" dir="auto"><b>Reach out to me on my socials / Sosyal Medya Hesaplarımdan bana ulaşın:</b></h2>
 
-[<img width="50" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938026.png?token=exp=1659680096~hmac=f336f56cb95fd7ad7541cb5a0916f0ac" align="center" dir="auto" />][Youtube]
+[<img width="50" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938026.png?token=exp=1659680096~hmac=f336f56cb95fd7ad7541cb5a0916f0ac" align="left" dir="auto" />][Youtube]
 
-[<img width="50" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1659680157~hmac=fbb69bd1c98c0f259c29ae6982061faa" align="center" dir="auto" />][Twitter]
+[<img width="50" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1659680157~hmac=fbb69bd1c98c0f259c29ae6982061faa" align="left" dir="auto" />][Twitter]
 
-[<img width="50" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1659680206~hmac=6e221e88e44521938c91711a79e572e7" align="center" dir="auto" />][LinkedIn]
+[<img width="50" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1659680206~hmac=6e221e88e44521938c91711a79e572e7" align="left" dir="auto" />][LinkedIn]
 
-[<img width="50" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" align="center" dir="auto" />][Instagram]
+<!--[<img width="50" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" align="center" dir="auto" />][Instagram]-->
 
 [youtube]:https://www.youtube.com/channel/UCL1zbUNW_z8f_qKCxrz4KYg
 [twitter]:https://twitter.com/yaafatii
 [linkedin]:https://www.linkedin.com/in/fatih-t%C3%BCn-51b050228/
-[instagram]:https://www.instagram.com/tunfatih/?hl=tr
+<!--[instagram]:https://www.instagram.com/tunfatih/?hl=tr-->
 
 <br></br>
 
