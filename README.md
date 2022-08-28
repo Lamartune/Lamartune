@@ -2,23 +2,23 @@
 
 <h1 align="center" dir="auto"><b> Hi, Welcome To My Github Profile 👋 👋 👋</b></h1>
 
-<h2><i>Frontend/Backend Developer | Licence student</i></h2>
+<h2 align="center" dir="auto"><i>Frontend/Backend Developer | Licence student</i></h2>
 
-<p>
+<p align="center" dir="auto">
 Hi, I'm Fatih, a 2nd year student at the Department of Management Information Systems. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as HTML5, C#, Java, Python, and I'm improving myself in mobile and web programming. I'm learning CSS3 and JS now. In the <a href="https://www.tunexdigital.com" target="_blank">TUNEX Team</a>, which we established with 4 friends, we develop applications by helping and teamwork, and we do things that will improve ourselves.
 </p>
 
-<p><em> Jack of all trades, master of none... </em>"<b><ins>Robert Greene</ins></b>"</p>
+<p align="center" dir="auto"><em> Jack of all trades, master of none... </em>"<b><ins>Robert Greene</ins></b>"</p>
 
-<h2><b>Reach out to me on my socials / Sosyal Medya Hesaplarımdan bana ulaşın:</b></h2>
+<h2 align="center" dir="auto"><b>Reach out to me on my socials / Sosyal Medya Hesaplarımdan bana ulaşın:</b></h2>
 
-[<img width="50" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938026.png?token=exp=1659680096~hmac=f336f56cb95fd7ad7541cb5a0916f0ac" align=center />][Youtube]
+[<img width="50" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938026.png?token=exp=1659680096~hmac=f336f56cb95fd7ad7541cb5a0916f0ac" align="center" dir="auto" />][Youtube]
 
-[<img width="50" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1659680157~hmac=fbb69bd1c98c0f259c29ae6982061faa" align=center />][Twitter]
+[<img width="50" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1659680157~hmac=fbb69bd1c98c0f259c29ae6982061faa" align="center" dir="auto" />][Twitter]
 
-[<img width="50" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1659680206~hmac=6e221e88e44521938c91711a79e572e7" align=center />][LinkedIn]
+[<img width="50" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1659680206~hmac=6e221e88e44521938c91711a79e572e7" align="center" dir="auto" />][LinkedIn]
 
-[<img width="50" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" align=left />][Instagram]
+[<img width="50" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" align="center" dir="auto" />][Instagram]
 
 [youtube]:https://www.youtube.com/channel/UCL1zbUNW_z8f_qKCxrz4KYg
 [twitter]:https://twitter.com/yaafatii
