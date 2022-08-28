@@ -12,6 +12,24 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 
 <h2 align="center" dir="auto"><b>Reach out to me on my socials / Sosyal Medya Hesaplarımdan bana ulaşın:</b></h2>
 
+<table>
+  <tr>
+    <td>
+      <a
+      href="https://www.youtube.com/channel/UCL1zbUNW_z8f_qKCxrz4KYg"
+      title="Lamartune Edits"
+      >
+      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" alt="Youtube" width="50"
+      </a>
+    </td>
+    <td>
+      <h2><b><a href="https://www.youtube.com/channel/UCL1zbUNW_z8f_qKCxrz4KYg">
+          My Youtube Channel/Youtube Kanalım
+        </a></b></h2>
+    </td>
+  </tr>
+</table>
+
 [<img width="50" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938026.png?token=exp=1659680096~hmac=f336f56cb95fd7ad7541cb5a0916f0ac" align="left" dir="auto" />][Youtube]
 
 [<img width="50" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1659680157~hmac=fbb69bd1c98c0f259c29ae6982061faa" align="left" dir="auto" />][Twitter]
