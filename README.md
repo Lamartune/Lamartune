@@ -14,7 +14,7 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 
 <table align="center" dir="auto">
   <tr>
-    <td>
+    <td style="width: 120px;">
       <a
       href="https://www.youtube.com/channel/UCL1zbUNW_z8f_qKCxrz4KYg"
       title="Lamartune Edits"
@@ -30,7 +30,7 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
     </td>
 </table>
 <table align="center" dir="auto">
-    <td>
+    <td style="width: 120px;">
       <a
       href="https://twitter.com/yaafatii"
       title="Fatii"
