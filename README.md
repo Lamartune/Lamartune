@@ -98,7 +98,6 @@ Hi, I'm Fatih, a 2nd year student at the Department of Management Information Sy
 <h2 align="center" dir="auto"><b> Most Used Languages / En çok kullandığım diller: </b></h2>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lamartune&layout=compact" width="850">
 
-                                                                                         
 ![](https://komarev.com/ghpvc/?username=lamartune&color=blueviolet&style=for-the-badge&width=850&flat-square&show=unique)
 
                                                                                          
