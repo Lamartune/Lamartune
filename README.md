@@ -2,7 +2,7 @@
 
 <h1 align="center" dir="auto"><b> Hi, Welcome To My Github Profile 👋 👋 👋</b></h1>
 
-<h2 align="center" dir="auto"><i>Frontend/Backend Developer | Licence student</i></h2>
+<h2 align="center" dir="auto"><i>Frontend Developer | Licence student</i></h2>
 
 <p align="center" dir="auto">
 Hi, I'm Fatih, a 3th year student at the Department of Management Information Systems. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as HTML5, C#, Java, Python, and I'm improving myself in mobile and web programming. I'm learning CSS3 and JS now. In the <a href="https://www.tunexdigital.com" target="_blank">TUNEX Team</a>, which we established with 4 friends, we develop applications by helping and teamwork, and we do things that will improve ourselves.
