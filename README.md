@@ -98,7 +98,9 @@ Hi, I'm Fatih, a 3th year student at the Department of Management Information Sy
 <h2 align="center" dir="auto"><b> Most Used Languages / En çok kullandığım diller: </b></h2>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lamartune&layout=compact" width="850">
 
-<div align="center">
+
+<img src = "https://raw.githubusercontent.com/insolitum/insolitum/f85dab99d95e6765f1afd6f692f88bcafc7b5dd4/contributions.svg" width="850" >
+
 <img src="https://komarev.com/ghpvc/?username=lamartune&color=blueviolet&style=flat-square&show=unique"
 </div>
 
