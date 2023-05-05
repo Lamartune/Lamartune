@@ -80,6 +80,7 @@ Hi, I'm Fatih, a 3th year student at the Department of Management Information Sy
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="50" title="Adobe Photoshop">
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="50" title="Adobe Illustrator">
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="50" title="Adobe Premiere Pro">
+<img align="left" dir="auto" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="50" title="Figma">
 
 <br></br>
 
