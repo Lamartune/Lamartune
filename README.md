@@ -29,23 +29,6 @@ Hi, I'm Fatih, a 3th year student at the Department of Management Information Sy
         </a></b></h2>
     </td>
 </table>
-<table align="center" dir="auto" id="youtube-table">
-  <tr>
-    <td style="width: 120px;">
-      <a
-      href="https://www.youtube.com/channel/UCL1zbUNW_z8f_qKCxrz4KYg"
-      title="Lamartune Edits"
-      rel="noopener noreferrer"
-      >
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" alt="Youtube" width="50"
-      </a>
-    </td>
-    <td>
-      <h2><b><a href="https://www.youtube.com/channel/UCL1zbUNW_z8f_qKCxrz4KYg" rel="noopener noreferrer" title="Lamartune Edits">
-          My Youtube Channel/Youtube Kanalım
-        </a></b></h2>
-    </td>
-</table>
 <table align="center" dir="auto" id="twitter-table">
     <td style="width: 120px;">
       <a
