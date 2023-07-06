@@ -55,11 +55,8 @@ Hi, I'm Fatih, a 3th year student at the Department of Management Information Sy
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" title="HTML5">
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" title="CSS3">
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" title="JavaScript">
-<img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="50" title="C#">
-<img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" title="MySQL">
-<img align="left" dir="auto" src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png" width="50" title="MsSQL">
-<img align="left" dir="auto" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="50" title="Java">
-<img align="left" dir="auto" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" title="Python">
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/875/875209.png" width="50" title="React">
+
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="50" title="Adobe Photoshop">
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="50" title="Adobe Illustrator">
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="50" title="Adobe Premiere Pro">
@@ -68,11 +65,7 @@ Hi, I'm Fatih, a 3th year student at the Department of Management Information Sy
 <br></br>
 
 <h2 align="center" dir="auto"><b> Coming soon / Çok yakında </b></h2>
-
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/875/875209.png" width="50" title="React">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="50" title="Flutter">
-<img align="left" src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" width="50" title="Kotlin">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" title="Android">
+<img align="left" dir="auto" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="50" title="TypeScript">
 
 <br></br>
 
