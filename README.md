@@ -83,7 +83,7 @@ Hi, I'm Fatih, a 3th year student at the Department of Management Information Sy
 <h2 align="center" dir="auto"><b> Most Used Languages / En çok kullandığım diller: </b></h2>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lamartune&layout=compact" width="850">
 
-<img src="https://o.remove.bg/uploads/78c0af7f-40d5-45c3-bbfe-2cf403b8b9f8/wrapped_Lamartune.png" width="850">
+<img src="https://www.resimupload.org/images/2023/07/06/wrapped_Lamartune-1.png" alt="wrapped_Lamartune-1.png" border="0" />
                                                                                                   
 <img align="center" src="https://komarev.com/ghpvc/?username=lamartune&color=green&style=flat-square&show=unique">
 </div>
