@@ -30,6 +30,7 @@ Hi, I'm Fatih, a 4th year student at the Department of Management Information Sy
           My LinkedIn Account/LinkedIn Hesabım
         </a></b></h2>
     </td>
+  </tr>
 </table>
 
 <br></br>
