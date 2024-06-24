@@ -31,19 +31,6 @@ Hi, I'm Fatih, a 4th year student at the Department of Management Information Sy
         </a></b></h2>
     </td>
 </table>
-<table align="center" dir="auto" id="twitter-table">
-    <td style="width: 120px;">
-      <a
-      href="https://twitter.com/yaafatii"
-      title="Fatii"
-      rel="noopener noreferrer"
-      >
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="Twitter" width="50"
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 <br></br>
 
